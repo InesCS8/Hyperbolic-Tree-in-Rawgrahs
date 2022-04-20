@@ -4,7 +4,7 @@
 - NOM DE LA TÈCNICA DE VISUALITZACIÓ: Hyperbolic tree o arbre hiperbòlic
 - ORIGEN:  Lamping 1995 https://dl.acm.org/doi/10.1145/223904.223956
 https://en.wikipedia.org/wiki/Flow_map#/media/File:Harness_Ireland_Railroad_Map_1838.png
-- DESCRIPCIÓ FUNCIONAMENT: Un arbre hiperbòlic defineix un mètode de dibuix de grafs inspirat en la geometria hiperbòlica.Es tracta d'una visualització de dades jeràrquiques. Per a un arbre binari simple, el nombre màxim de nodes a un nivell n és 2n, mentre que el nombre de nodes per arbres més grans creix molt més ràpidament.
+- DESCRIPCIÓ FUNCIONAMENT: Un arbre hiperbòlic defineix un mètode de dibuix de grafs inspirat en la geometria hiperbòlica.Es tracta d'una visualització de dades jeràrquiques. Per a un arbre binari simple, el nombre màxim de nodes a un nivell n és 2n, mentre que el nombre de nodes per a arbres més grans creix molt més ràpidament.
 - EXEMPLES D'APLICACIÓ: https://hyperbolic-tree-of-life.github.io/
 
 **2.	Descripció del tipus de dades**
