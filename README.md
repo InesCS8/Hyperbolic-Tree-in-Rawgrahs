@@ -2,7 +2,7 @@
 **1.	Defició cada tècnica de visualització de forma general**
 
 - NOM DE LA TÈCNICA DE VISUALITZACIÓ: Hyperbolic tree o arbre hiperbòlic
-- ORIGEN: L'enginyer Henry Drury Harness va publicar en 1838 el primer mapa de flux mostrant la quantitat de trànsit de càrrega per carretera i canals a Irlanda.
+- ORIGEN:  Lamping 1995 https://dl.acm.org/doi/10.1145/223904.223956
 https://en.wikipedia.org/wiki/Flow_map#/media/File:Harness_Ireland_Railroad_Map_1838.png
 - DESCRIPCIÓ FUNCIONAMENT: Un arbre hiperbòlic defineix un mètode de dibuix de grafs inspirat en la geometria hiperbòlica.La visualització de dades jeràrquiques com a arbre pateix una cúpula visual ja que el nombre de nodes per nivell pot créixer exponencialment. Per a un arbre binari simple, el nombre màxim de nodes a un nivell n és 2n, mentre que el nombre de nodes per arbres més grans creix molt més ràpidament.
 - EXEMPLES D'APLICACIÓ: https://hyperbolic-tree-of-life.github.io/
