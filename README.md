@@ -18,7 +18,7 @@ https://en.wikipedia.org/wiki/Flow_map#/media/File:Harness_Ireland_Railroad_Map_
 
 **3.	REPRESENTACIÓ GRÁFICA**
 
-En el següent gràfic es mostra els tipus i nombre d'instruments en funció de l'orquestra a la qual pertanyen.
+En el següent gràfic es mostra el tipus d'instrument en funció de l'orquestra a la qual pertanyen.
 
 El dataset -> https://github.com/rawgraphs/rawgraphs-app/blob/master/public/sample-datasets/Treemap%20-%20Orchestra.tsv
 
